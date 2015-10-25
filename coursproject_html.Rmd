@@ -129,7 +129,7 @@ This model has an accuracy of 0.9244, where 31 iterations have been needed to fi
 ###**Model selection, Out-of-Sample Error and Prediction**
 
 
-According to accuracy values of the three different models the random forest model is choosen as the final model. The expected out-of-sample error is assumed to be 0.15%.
+According to accuracy values of the three different models the random forest model is choosen as the final model. The expected out-of-sample error is assumed to be 0.14%.
 
 The random forest model is now applied on the testing dataset to predict the manner in which the members did the exercise.
 
